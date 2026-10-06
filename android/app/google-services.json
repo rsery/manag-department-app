@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338319573985",
+    "project_id": "managdepartmentdoftware2",
+    "storage_bucket": "managdepartmentdoftware2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338319573985:android:86f5902452eeb0d35088a0",
+        "android_client_info": {
+          "package_name": "com.example.manag_department_software_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndrSqxgLbTA38PXmWOgqpeNbBdQrsXRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
